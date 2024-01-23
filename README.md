@@ -5,7 +5,7 @@
 ### Welcome!
 There's nothing to see because I have nothing, but **welcome** for everyone who came to my profile!
 
-<details>
+<details open>
 <summary>About me</summary>
   
   |      Thing       |                      Description                    |
