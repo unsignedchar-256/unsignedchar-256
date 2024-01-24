@@ -3,7 +3,7 @@
 -->
 
 ### Welcome!
-There's nothing to see because I have nothing, but **welcome** for everyone who came to my profile!
+There's nothing to see because I have nothing. No contributions and any repositories. But, **welcome** for everyone who came to my profile!
 
 <details open>
 <summary>About me</summary>
