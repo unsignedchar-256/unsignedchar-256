@@ -11,8 +11,8 @@ Actually I have a lot of projects, but none of them are useful. So, I do not hav
 Here are some things that I use everyday:
 |      Thing       |                      Description                    |
 |------------------|-----------------------------------------------------|
-| Operating System | Windows 11 Pro (Insider Preview) and Windows 10 Pro |
-|       IDE        | Microsoft Visual Studio 2022 Preview                |
+| Operating System | Windows 11 Pro (Insider Preview Dev)								 |
+|       IDE        | Microsoft Visual Studio Community 2022 Preview      |
 |   Code Editor    | Microsoft Visual Studio Code Preview                |
 |    Languages     | C# (.NET) and C++ (using Microsoft Visual C++)      |
 
