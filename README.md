@@ -2,20 +2,22 @@
 ### Hi there 👋
 -->
 
-### Welcome!
-There's nothing to see because I have nothing. No contributions and any repositories. But, **welcome** for everyone who came to my profile!
+### Welcome! :octocat:
+I have nothing. No contributions and any repositories. But, **welcome** for everyone who came to my profile!
 
-<details open>
-<summary>About me</summary>
-  
-  |      Thing       |                      Description                    |
-  |------------------|-----------------------------------------------------|
-  | Operating System | Windows 11 Pro (Insider Preview) and Windows 10 Pro |
-  |       IDE        | Microsoft Visual Studio 2022 Preview                |
-  |   Code Editor    | Microsoft Visual Studio Code Preview                |
-  |    Languages     | C# (.NET) and C++ (using Microsoft Visual C++)      |
-  
-</details>
+### Details about me
+Actually I have a lot of projects, but none of them are useful. So, I do not have any plan to share them. Also, my programming skills are 💩.
+
+Here are some things that I use everyday:
+|      Thing       |                      Description                    |
+|------------------|-----------------------------------------------------|
+| Operating System | Windows 11 Pro (Insider Preview) and Windows 10 Pro |
+|       IDE        | Microsoft Visual Studio 2022 Preview                |
+|   Code Editor    | Microsoft Visual Studio Code Preview                |
+|    Languages     | C# (.NET) and C++ (using Microsoft Visual C++)      |
+
+### My future plan
+I will ll make a public repository if I have something useful to share.
 
 <!--
 **unsignedchar-256/unsignedchar-256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
