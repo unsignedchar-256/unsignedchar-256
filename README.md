@@ -25,7 +25,7 @@ I don't know I will do that or not. No one knows!
    > I will make a public repository if I have something useful to share. But I guess they will be a garbage, full of bugs, and full of security vulnerabilities.
 
 2. Contributions
-   > I am pretty afraid of making contributions on other repository now. If I made something on your project and I messed up your project, I am sorry because of my mistake.
+   > I am pretty afraid of making contributions on other repository now. If I made something on your project and I messed up your project, I am sorry because of my mistake :)
 
 ### What are you doing right now?
 Currently, I am learning C++. As a person who just started to learn C++, I don't know a lot of C++.
