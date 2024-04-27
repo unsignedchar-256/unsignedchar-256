@@ -13,7 +13,8 @@ I love to exploring GitHub repositories for searching some references, exploring
 Here are some things that I use everyday:
 |      Thing       |                      Description                    |
 |------------------|-----------------------------------------------------|
-| Operating System | Windows 11 Pro (Insider Preview Dev)								 |
+| Operating System | Windows 11 Pro (Insider Preview Dev)					 |
+|     OS Build     | [Latest WIP Dev Build](https://aka.ms/DevLatest)    |
 |       IDE        | Microsoft Visual Studio Community 2022 Preview      |
 |   Code Editor    | Microsoft Visual Studio Code Preview                |
 |    Languages     | C# (.NET) and C++ (using Microsoft Visual C++)      |
