@@ -5,8 +5,11 @@
 ### Welcome! :octocat:
 I have nothing. No contributions and any repositories. But, **welcome** for everyone who came to my profile!
 
+### Why `unsigned char`?
+Because it is good and I love it! Useful when you only want to use less memory because `unsigned char` takes only 1 byte.
+
 ### Details about me
-Actually I have some projects, but none of them are useful. So, I do not have any plan to share them. Also, my programming skills are 💩.
+Actually I have some projects, but none of them are useful. So, I do not have any plan to share them. Also, my bad programming skills. 💩
 
 I love to exploring GitHub repositories for searching some references, exploring useful APIs and libraries, and sometimes just for exploring some interesting repositories. I will give them a star and save them just in case I need them.
 
