@@ -29,10 +29,10 @@ I don't know I will do that or not. No one knows!
    > I will make a public repository if I have something useful to share, but they're garbages.
 
 ### What are you doing right now?
-Currently, I am learning C++. As a person who just started to learn C++, I don't know a lot of C++. I know some about C# (.NET).
+I'm interested with Android lately. Finally, I'm just started to make contributions after thousand years!!
 
 ___
-That's it!
+That's it! Thanks for coming.
 
 <!--
 I love templates! So, please do not remove everything below. Thank you! :D
