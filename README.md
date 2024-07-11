@@ -31,6 +31,10 @@ I don't know I will do that or not. No one knows!
 ### What are you doing right now?
 I'm interested with Android lately. Finally, I'm just started to make contributions after thousand years!!
 
+### Translations
+1. **🇮🇩 Indonesian (Primary)**
+2. 🇰🇷 Korean
+
 ___
 That's it! Thanks for coming.
 
