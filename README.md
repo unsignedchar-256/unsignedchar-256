@@ -32,8 +32,9 @@ I don't know I will do that or not. No one knows!
 I'm interested with Android lately. Finally, I'm just started to make contributions after thousand years!!
 
 ### Translations
-1. **🇮🇩 Indonesian (Primary)**
+1. **🇮🇩 Indonesian (native)**  
 2. 🇰🇷 Korean
+   > I'm not a native Korean. I only translate strings that I understand.
 
 ___
 That's it! Thanks for coming.
