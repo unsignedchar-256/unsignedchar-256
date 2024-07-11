@@ -6,8 +6,7 @@
 I have nothing. But, **welcome** for everyone who came to my profile!
 
 ### Why `unsigned char`?
-~~Nothing's wrong. Why you're asking?~~
-Because it's my favorite data type ! Useful when you only want to use less memory because `unsigned char` takes only 1 byte.
+~~Why you're asking?~~ I didn't know what name to use for this account, and `unsigned char` appeared in my mind that time. It's my favorite data type in C/C++! Useful when you only want to use less memory because `unsigned char` takes only 1 byte.
 
 ### Details about me
 Actually I have some projects, but none of them are useful. So, I do not have any plan to share them.
