@@ -27,10 +27,10 @@ Here are some things that I use everyday:
 I don't know I will do that or not. No one knows!
 
 1. Public repositories
-   > I will make a public repository if I have something useful to share. But I guess they will be a garbage, full of bugs, and full of security vulnerabilities.
+   > I will make a public repository if I have something useful to share, but they're garbages.
 
 ### What are you doing right now?
-Currently, I am learning C++. As a person who just started to learn C++, I don't know a lot of C++.
+Currently, I am learning C++. As a person who just started to learn C++, I don't know a lot of C++. I know some about C# (.NET).
 
 ___
 That's it!
