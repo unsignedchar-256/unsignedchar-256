@@ -14,13 +14,13 @@ Actually I have some projects, but none of them are useful. So, I do not have an
 I love to exploring GitHub repositories for searching some references, exploring useful APIs and libraries, and sometimes just for exploring some interesting repositories. I will give them a star and save them just in case I need them.
 
 Here are some things that I use everyday:
-|      Thing       |                      Description                    |
-|------------------|-----------------------------------------------------|
-| Operating System | Windows 11 Pro (Insider Preview Dev)					 |
-|     OS Build     | [Latest WIP Dev Build](https://aka.ms/DevLatest)    |
-|       IDE        | Microsoft Visual Studio Community 2022 Preview      |
-|   Code Editor    | Microsoft Visual Studio Code Preview                |
-|    Languages     | C# (.NET) and C++ (using Microsoft Visual C++)      |
+|      Thing       |                      Description                                   |
+|------------------|--------------------------------------------------------------------|
+| Operating System | Windows 11 Enterprise (Insider Preview Dev)                        |
+|     OS Build     | [Latest WIP Dev Build](https://aka.ms/DevLatest)                   |
+|       IDE        | Microsoft Visual Studio Community 2022 Preview, Android Studio     |
+|   Code Editor    | Microsoft Visual Studio Code Preview                               |
+|    Languages     | C# (.NET) and C++ (using Microsoft Visual C++), Kotlin             |
 
 ### My future plan
 I don't know I will do that or not. No one knows!
