@@ -5,10 +5,13 @@
 ## Welcome! :octocat:
 I have nothing. But, **welcome** for everyone who came to my profile!
 
-### Why `unsigned char`?
-~~Why you're asking?~~ I didn't know what name to use for this account, and `unsigned char` appeared in my mind that time. It's my favorite data type in C/C++! Useful when you only want to use less memory because `unsigned char` takes only 1 byte.
+## "Who are you?"
+A small kid in 1st grade in SHS (senior high school, commonly known as "Sekolah Menengah Atas" or SMA here). I'm a big Android enthusiast. So I develop **garbage useless** (sorry, that's a fact) Android applications.
 
-### Details about me
+### Why `unsigned char`?
+~~Why you're asking?~~ ~~I didn't know what name to use for this account, and `unsigned char` appeared in my mind that time. It's my favorite data type in C/C++! Useful when you only want to use less memory because `unsigned char` takes only 1 byte.~~ I don't have any idea of this account name.
+
+### More details about me
 Actually I have some projects, but none of them are useful. So, I do not have any plan to share them.
 
 I love to exploring GitHub repositories for searching some references, exploring useful APIs and libraries, and sometimes just for exploring some interesting repositories. I will give them a star and save them just in case I need them.
@@ -16,28 +19,30 @@ I love to exploring GitHub repositories for searching some references, exploring
 Here are some things that I use everyday:
 |      Thing       |                      Description                                   |
 |------------------|--------------------------------------------------------------------|
-| Operating System | Windows 11 Enterprise (Insider Preview Dev)                        |
-|     OS Build     | [Latest WIP Dev Build](https://aka.ms/DevLatest)                   |
-|       IDE        | Microsoft Visual Studio Community 2022 Preview, Android Studio     |
+| Operating System | GNU/Linux Ubuntu 24.04.2 (KDE)                                     |
+|     Kernel       | 6.11.0                                                             |
+|       IDE        | Android Studio, IntelliJ IDEA Community                            |
 |   Code Editor    | Microsoft Visual Studio Code Preview                               |
-|    Languages     | C# (.NET) and C++ (using Microsoft Visual C++), Kotlin             |
+|    Languages     | Kotlin                                                             |
+
+> Still using Windows 11 Insider, but I primarily use Linux.
 
 ### My future plan
 I don't know I will do that or not. No one knows!
 
 1. Public repositories
-   > I will make a public repository if I have something useful to share, but they're garbages.
+   > I will make a public repository if I have something useful to share, but they're a plenty of garbages.
 
 ### What are you doing right now?
-I'm interested with Android lately. Finally, I'm just started to make contributions after thousand years!!
+Currently falling in love with Android, 24/7 for Android. Finally, started to make contributions after thousand years!!
 
 ### Translations
 1. **🇮🇩 Indonesian (native)**  
 2. 🇰🇷 Korean
-   > I'm not a native Korean. I only translate strings that I understand.
+   > I'm not a native Korean. I only translate strings that I understand (partial translation).
 
 ___
-That's it! Thanks for coming.
+That's it, yall! Thanks for coming.
 
 <!--
 I love templates! So, please do not remove everything below. Thank you! :D
