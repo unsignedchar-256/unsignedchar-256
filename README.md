@@ -2,6 +2,8 @@
 ### Hi there 👋
 -->
 
+> icl ts pmo sm n sb rn ngl, sybau vro, r u srsly srs n fr rn vro? lol atp js go 💔... b fr vro, idek nm, brb gng gtg atm lmao, bt ts pyo 2 js lmk lol onb fr
+
 ## Welcome! :octocat:
 I have nothing. But, **welcome** for everyone who came to my profile!
 
@@ -43,7 +45,6 @@ Currently falling in love with Android, 24/7 for Android. ~~Finally, started to 
 
 ___
 That's it, yall! Thanks for coming~
-icl ts pmo sm n sb rn ngl, sybau vro, r u srsly srs n fr rn vro? lol atp js go 💔... b fr vro, idek nm, brb gng gtg atm lmao, bt ts pyo 2 js lmk lol onb fr
 
 <!--
 I love templates! So, please do not remove everything below. Thank you! :D
