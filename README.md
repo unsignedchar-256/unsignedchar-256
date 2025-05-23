@@ -9,7 +9,7 @@ I have nothing. But, **welcome** for everyone who came to my profile!
 A small kid in 1st grade in SHS (senior high school, commonly known as "Sekolah Menengah Atas" or SMA here). I'm a big Android enthusiast. So I develop **garbage useless** (sorry, that's a fact) Android applications.
 
 ### Why `unsigned char`?
-~~Why you're asking?~~ ~~I didn't know what name to use for this account, and `unsigned char` appeared in my mind that time. It's my favorite data type in C/C++! Useful when you only want to use less memory because `unsigned char` takes only 1 byte.~~ I don't have any idea of this account name.
+I don't have any idea of this account name. Do not ask
 
 ### More details about me
 Actually I have some projects, but none of them are useful. So, I do not have any plan to share them.
@@ -19,7 +19,7 @@ I love to exploring GitHub repositories for searching some references, exploring
 Here are some things that I use everyday:
 |      Thing       |                      Description                                   |
 |------------------|--------------------------------------------------------------------|
-| Operating System | GNU/Linux Ubuntu 24.04.2 (KDE)                                     |
+| Operating System | GNU/Linux Ubuntu 24.10 (KDE)                                       |
 |     Kernel       | 6.11.0                                                             |
 |       IDE        | Android Studio, IntelliJ IDEA Community                            |
 |   Code Editor    | Microsoft Visual Studio Code Preview                               |
@@ -34,7 +34,7 @@ I don't know I will do that or not. No one knows!
    > I will make a public repository if I have something useful to share, but they're a plenty of garbages.
 
 ### What are you doing right now?
-Currently falling in love with Android, 24/7 for Android. Finally, started to make contributions after thousand years!!
+Currently falling in love with Android, 24/7 for Android. ~~Finally, started to make contributions after thousand years!!~~ **inactive**
 
 ### Translations
 1. **🇮🇩 Indonesian (native)**  
@@ -42,7 +42,8 @@ Currently falling in love with Android, 24/7 for Android. Finally, started to ma
    > I'm not a native Korean. I only translate strings that I understand (partial translation).
 
 ___
-That's it, yall! Thanks for coming.
+That's it, yall! Thanks for coming~
+icl ts pmo sm n sb rn ngl, sybau vro, r u srsly srs n fr rn vro? lol atp js go 💔... b fr vro, idek nm, brb gng gtg atm lmao, bt ts pyo 2 js lmk lol onb fr
 
 <!--
 I love templates! So, please do not remove everything below. Thank you! :D
