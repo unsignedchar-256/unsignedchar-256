@@ -5,7 +5,7 @@
 > icl ts pmo sm n sb rn ngl, sybau vro, r u srsly srs n fr rn vro? lol atp js go 💔... b fr vro, idek nm, brb gng gtg atm lmao, bt ts pyo 2 js lmk lol onb fr
 >
 
-![sybau 💔](https://github.com/unsignedchar-256/unsignedchar-256/blob/8f4adf9c7c4b791f39934ff2fdf88de952babe9d/image.png)
+![sybau 💔](https://github.com/unsignedchar-256/unsignedchar-256/blob/192482f3be945870497a3225fa4f26c4b1525e48/sybau%20(1).png)
 
 ## Welcome! :octocat:
 I have nothing. But, **welcome** for everyone who came to my profile!
